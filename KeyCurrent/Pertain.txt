@@ -1,0 +1,6 @@
+Server Current Key
+
+User #  xnsger
+Passwd # qwaszx123*
+
+Key # SSH-RSA 2048
